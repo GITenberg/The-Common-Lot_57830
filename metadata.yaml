@@ -1,0 +1,24 @@
+_repo: The-Common-Lot_57830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herrick, Robert
+    alias: Herrick, R. (Robert)
+    birthdate: 1591
+    deathdate: 1674
+    gutenberg_agent_id: '554'
+    url: http://www.gutenberg.org/2009/agents/554
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(poet)
+description: ''
+gutenberg_issued: '2018-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Common Lot
+url: http://www.gutenberg.org/ebooks/57830
